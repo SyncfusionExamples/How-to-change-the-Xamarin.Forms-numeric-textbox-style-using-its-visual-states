@@ -1,6 +1,6 @@
 # How to change the Xamarin.Forms numeric textbox style using its visual states
 
-This repository contains sample for how to customize the [Syncfusion Xamarin.Forms Numeric TextBox](https://help.syncfusion.com/xamarin/numeric-entry/getting-started) control's style using visual states.
+This repository contains sample to customize the [Syncfusion Xamarin.Forms Numeric TextBox](https://help.syncfusion.com/xamarin/numeric-entry/getting-started) control's style using visual states.
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/11785/how-to-change-the-xamarin-forms-numeric-textbox-style-using-its-visual-states).
 
